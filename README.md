@@ -1,1 +1,1 @@
-shell_redirections
+bash and shell projects
